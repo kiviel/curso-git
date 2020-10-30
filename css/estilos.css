@@ -1,0 +1,26 @@
+body{
+    background-color: #333333;
+    color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    margin: auto;
+    left: 0;
+    right: 0;
+    width: 600px;
+    top: 0;
+    bottom: 0;
+    height: 400px;
+    border: 1px solid #f0f0f0;
+    padding: 10px;
+}
+#post{
+    text-align: center;
+}
+#post h1{
+    color: cadetblue;
+    text-decoration: underline;
+}
+#post p{
+    line-height: 1.5em;
+}
